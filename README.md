@@ -24,13 +24,14 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=dlseprtm778@naver.com> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=dlseprtm778@naver.com"> </a>
-         <a href=a77018847@gmail.com> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=a77018847@gmail.com"> </a>
-         <a href=mailto:a77018847@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:a77018847@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2> <br>
+    <div style="text-align: left;">
+        <a href="mailto:dlseprtm778@naver.com"> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=dlseprtm778@naver.com"> </a>
+        <a href="https://www.notion.so/Mijin-Kim-2291b4aae89980a98242e08eeb00fdec"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=a77018847@gmail.com"> </a>
+        <a href="mailto:a77018847@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:a77018847@gmail.com"> </a>
+    </div> <br>
+    <div style="text-align: left;"> </div>
+</div>
 
     
 
