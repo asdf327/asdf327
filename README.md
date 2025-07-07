@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving)
 
-## 안녕하세요. 
-
 
 ## Tech Stack Badge
 
